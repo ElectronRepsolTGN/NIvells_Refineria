@@ -1,0 +1,7 @@
+SK-510A
+
+Threshold: 	64 mV
+Amplitud:	1585 mV
+Nivel:		11555 mm
+
+Falso Echo = Nivel: 11268 mm // Amplitud: 141 mV
